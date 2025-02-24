@@ -14,3 +14,7 @@ Fields
 * Each pump will supply 8-10 PSI for one or more grids
 
 # Calculation T.B.D.
+
+# Questions:
+1. Do we optimize for cost?
+2. Do we calculate for different options like multiple pumps vs. just one?
